@@ -46,7 +46,7 @@ return (
         />
         <CampoTexto 
         label = "Imagem" 
-        placeholder = "Digite o endereço da imagem" 
+        placeholder = "Digite o link do github + .png" 
         valor= {imagem}
         aoAlterado = {valor => setImagem(valor)}
         />

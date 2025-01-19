@@ -39,7 +39,7 @@ const times = [
     corSegundaria :'#F4511E'
   },
   {
-    nome :'Inovação e Gestão' ,
+    nome :'Back-End',
     corPrimaria :'#F3E5F5',
     corSegundaria :'#8E24AA'
   },
