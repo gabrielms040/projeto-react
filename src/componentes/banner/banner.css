@@ -1,0 +1,9 @@
+.Banner {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.Banner img {
+    max-width: 70%;
+
+}
